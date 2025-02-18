@@ -163,3 +163,13 @@ body {
     grid-template-columns: 1fr;
   }
 }
+.footer {
+  background-color: #333;
+  color: rgb(15, 0, 0);
+  text-align: center;
+  padding: 15px;
+  font-size: 1rem;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
